@@ -1,0 +1,18 @@
+{
+    "bannerName": "Adrift in the Harbor",
+    "bannerStartDate": "09/27/2022",
+    "bannerEndDate" : "09/27/2022",
+    "bannerPromotionalFiveStars" : ["Ganyu"],
+    "bannerPromotionalFourStars" : ["Dori","Xinqiu","Sucrose"],
+    "bannerFiveStars" : ["Jean","Diluc","Mona","Keqing","Qiqi"],
+    "bannerFourStarCharacters" : ["Xiangling","Beidou","Noelle","Yanfei","Xinyan" ,"Diona",
+    "Chongyun","Ningguang","Fischl","Bennett" ,"Razor" ,"Barbara" ,"Rosaria" ,"Sara","Sayu", 
+    "Thoma" ,"Gorou" ,"Yun Jin","Kuki Shinobu","Heizou"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword","Lions Roar",
+    "Favonius Greatsword","The Bell","Sacrificial Greatsword","Rainslasher","DragonDragon's Bane",
+    "Favonius Lance ","Favonius Codex ","The Widsith","Sacrificial Fragments","Eye of Perception",
+    "Favonius Warbow","The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Cool Steel","Harbinger of Dawn","Skyrider Sword" ,"Ferrous Shadow",
+    "Bloodtainted Greatsword","Debate Club" ,"Black Tassel","Magic Guide","Thrilling Tales of Dragon Slayers"
+    ,"Emerald Orb","Raven Bow" ,"Sharpshooter's Oath","Slingshot"]
+}

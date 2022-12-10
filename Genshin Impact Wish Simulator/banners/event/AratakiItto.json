@@ -1,0 +1,19 @@
+{
+    "bannerName": "Oni's Royale",
+    "bannerStartDate" : "06/21/2022",
+    "bannerEndDate" : "07/12/2022",
+    "bannerPromotionalFiveStars" : ["Aratak iItto"],
+    "bannerPromotionalFourStars" : ["Kuki Shinobu", "Gorou", "Chongyun"],
+    "bannerFiveStars" : ["Jean", "Diluc", "Mona", "Keqing", "Qiqi"],
+    "bannerFourStarCharacters" : ["Barbara","Xiangling","Thoma","Sara","Sayu","Yanfei", 
+    "Rosaria","Xinyan","Diona","Xingqiu","Ningguang","Beidou", 
+    "Sucrose","Fischl","Noelle","Bennett","Razor"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword","Lions Roar",
+    "Favonius Greatsword","The Bell","Sacrificial Greatsword","Rainslasher","DragonDragon's Bane",
+    "Favonius Lance ","Favonius Codex ","The Widsith","Sacrificial Fragments","Eye of Perception",
+    "Favonius Warbow","The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Cool Steel","Harbinger of Dawn","Skyrider Sword","Ferrous Shadow ",
+    "Bloodtainted Greatsword","Debate Club" ,"Black Tassel" ,"Magic Guide","Thrilling Tales of Dragon Slayers",
+    "Emerald Orb","Raven Bow","Sharpshooter's Oath","Slingshot"]
+}
+

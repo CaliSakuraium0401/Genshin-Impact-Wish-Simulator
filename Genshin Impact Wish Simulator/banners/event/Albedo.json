@@ -1,0 +1,18 @@
+{
+    "bannerName": "Secretum Secretorum",
+    "bannerStartDate" : "10/14/22",
+    "bannerEndDate" : "11/1/2022",
+    "bannerPromotionalFiveStars" : ["Albedo"],
+    "bannerPromotionalFourStars" : ["Barbara", "Xiangling", "Beidou"],
+    "bannerFiveStars" : ["Jean", "Diluc", "Mona", "Keqing", "Qiqi", "Tighnari"],
+    "bannerFourStarCharacters" : ["Kuki Shinobu","Razor","Bennet","Noelle","Fischl","Sucrose","Ningguang","Xingqiu","Chongyun", 
+    "Diona","Xinyan","Rosaria","Yanfei","Sayu","Sara","Thoma","Gorou","Heizou","Yun Jin", 
+    "Collei", "Dori"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword","Lion's Roar","Favonius Greatsword","The Bell", 
+    "Sacrificial Greatsword","Rainslasher","DragonDragon's Bane","Favonius Lance","Favonius Codex", 
+    "The Widsith","Sacrificial Fragments","Eye of Perception","Favonius Warbow","The Stringless", 
+    "Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Sharpshooter's Oath","Slingshot","Cool Steel","Harbinger of Dawn","Skyrider Sword",
+    "Ferrous Shadow","Bloodtainted Greatsword","Debate Club","Black Tassel","Magic Guide", 
+    "Thrilling Tales of Dragon Slayers","Emerald Orb","Raven Bow"]
+}

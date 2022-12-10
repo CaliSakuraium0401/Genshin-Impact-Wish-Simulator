@@ -1,0 +1,18 @@
+{
+    "bannerName": "Twilight Arbiter",
+    "bannerStartDate" : "09/28/2022 ",
+    "bannerEndDate" : "10/14/2022",
+    "bannerPromotionalFiveStars" : ["Cyno"],
+    "bannerPromotionalFourStars" : ["Candace", "Kuki Shinobu", "Sayu"],
+    "bannerFiveStars" : ["Jean", "Diluc", "Mona", "Keqing", "Qiqi", "Tighnari"],
+    "bannerFourStarCharacters" : ["Barbara","Razor","Bennett","Noelle","Fischl","Sucrose","Beidou","Ningguang",
+    "Xiangling","Xingqiu","Chongyun","Diona","Xinyan","Rosaria","Yanfei","Sara",
+    "Gorou","Thoma", "Yun Jin", "Collei", "Dori","Heizou"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword","LionLion's Roar","Favonius Greatsword", 
+    "The Bell","Sacrificial Greatsword","Rainslasher","Dragon's Bane","Favonius Lance", 
+    "Favonius Codex","The Widsith","Sacrificial Fragments","Eye of Perception","Favonius Warbow",
+    "The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Cool Steel","Harbinger of Dawn","Skyrider Sword","Ferrous Shadow","Bloodtainted Greatsword", 
+    "Debate Club","Black Tassel","Magic Guide","Thrilling Tales of Dragon Slayers","Emerald Orb",
+    "Raven Bow","Sharpshooter's Oath","Slingshot"]
+}

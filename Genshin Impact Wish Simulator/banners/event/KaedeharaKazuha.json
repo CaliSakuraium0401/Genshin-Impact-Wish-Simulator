@@ -1,0 +1,18 @@
+{
+    "bannerName": "Leaves in the Wind",
+    "bannerStartDate" : "07/13/2022",
+    "bannerEndDate" : "08/02/2022",
+    "bannerPromotionalFiveStars" : ["Kaedehara Kazuha"],
+    "bannerPromotionalFourStars" : ["Dori","Xinqiu","Sucrose"],
+    "bannerFiveStars" : ["Jean","Diluc","Mona","Keqing","Qiqi"],
+    "bannerFourStarCharacters" : ["Xiangling","Beidou","Noelle","Yanfei","Xinyan" ,"Diona",
+    "Chongyun","Ningguang","Fischl","Bennett" ,"Razor" ,"Barbara" ,"Rosaria" ,"Sara","Sayu", 
+    "Thoma" ,"Gorou" ,"Yun Jin","Kuki Shinobu","Heizou"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword ","LionLion's Roar",
+    "Favonius Greatsword","The Bell","Sacrificial Greatsword" ,"Rainslasher","DragonDragon's Bane",
+    "Favonius Lance","Favonius Codex","The Widsith","Sacrificial Fragments","Eye of Perception",
+    "Favonius Warbow","The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Harbinger of Dawn","Skyrider Sword" ,"Ferrous Shadow"
+    ,"Bloodtainted Greatsword" ,"Debate Club" ,"Black Tassel" ,"Magic Guide","Thrilling Tales of Dragon Slayers",
+    "Emerald Orb","Raven Bow","Sharpshooter's Oath","Slingshot","Cool Steel"]
+}

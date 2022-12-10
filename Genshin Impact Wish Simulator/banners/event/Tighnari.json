@@ -1,0 +1,18 @@
+{
+    "bannerName": "Viridiscent Vigil",
+    "bannerStartDate" : "08/24/2022",
+    "bannerEndDate" : "09/09/2022",
+    "bannerPromotionalFiveStars" : ["Tighnari"],
+    "bannerPromotionalFourStars" : ["Collei", "Diona", "Fischl"],
+    "bannerFiveStars" : ["Jean", "Diluc", "Mona", "Keqing", "Qiqi"],
+    "bannerFourStarCharacters" : ["Xinyan","Chongyun","Xingqiu", "Beidou" ,"Noelle" ,"Razor",
+    "Yanfei" ,"Sara","Sayu","Thoma","Gorou","Xiangling","Ningguang","Sucrose","Bennett",
+    "Barbara","Rosaria","Heizou","Kuki Shinobu","Yun Jin"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute","Sacrificial Sword","Lions Roar",
+    "Favonius Greatsword","The Bell","Sacrificial Greatsword","Rainslasher","DragonDragon's Bane",
+    "Favonius Lance ","Favonius Codex ","The Widsith","Sacrificial Fragments","Eye of Perception",
+    "Favonius Warbow","The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Cool Steel","Harbinger of Dawn","Skyrider Sword","Ferrous Shadow ",
+    "Bloodtainted Greatsword","Debate Club" ,"Black Tassel" ,"Magic Guide","Thrilling Tales of Dragon Slayers",
+    "Emerald Orb","Raven Bow","Sharpshooter's Oath","Slingshot"]
+}

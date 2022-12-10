@@ -1,0 +1,18 @@
+{
+    "bannerName": "Tapestry Of Golden Flames",
+    "bannerStartDate" : "08/02/2022",
+    "bannerEndDate" : "08/23/2022",
+    "bannerPromotionalFiveStars" : ["Yoimiya"],
+    "bannerPromotionalFourStars" : ["Heizou", "Thoma", "Ningguang"],
+    "bannerFiveStars" : ["Jean","Diluc","Mona","Keqing","Qiqi"],
+    "bannerFourStarCharacters" : ["Sayu", "Sucrose", "Chongyun","Diona","Rosaria","Beidou",
+    "Fischl", "Kujou Sara", "Kuki Shinobu","Razor", "Gorou", "Noelle","Yun Jin", "Barbara", "Xingqiu",
+    "Bennett", "Xiangling", "Xinyan","Yanfei"],
+    "bannerFourStarWeapons" : ["Favonius Sword","The Flute" ,"Sacrificial Sword",
+    "Lion's Roar","Favonius Greatsword","The Bell","Sacrificial Greatsword","Rainslashe",
+    "DragonDragon's Bane","Favonius Lance","Favonius Codex","The Widsith","Sacrificial Fragment",
+    "Eye of Perception","Favonius Warbow","The Stringless","Sacrificial Bow","Rust"],
+    "bannerThreeStarWeapons" : ["Cool Steel","Harbinger of Dawn","Skyrider Sword","Ferrous Shadow",
+    "Bloodtainted Greatsword","Debate Club","Black Tassel" ,"Magic Guide" ,"Thrilling Tales of Dragon Slayers",
+    "Emerald Orb ","Raven Bow","Sharpshooter's Oath","Slingshot"]
+}
